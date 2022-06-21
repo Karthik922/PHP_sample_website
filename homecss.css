@@ -1,0 +1,63 @@
+#welcome{
+	text-align:center;
+	text-transform:uppercase;
+}
+#msg
+{
+	margin-left:50px;
+	margin-top:10px;
+	width:700px;
+	height:70px;
+	border-radius:8px;
+	font-size:20px;
+	color:blue;
+	
+}
+#feedback
+{
+	margin-top:20px;
+	margin-left:55px;
+	width:650px;
+	height:450px;
+	background:#aa7744;
+	color:white;
+	padding:20px;
+	border-radius:8px;
+	overflow:auto;
+}
+#uname
+{
+	color:orange;
+	float:left;
+}
+#time
+{
+	color:yellow;
+	float:right;
+	
+}
+#cmsg
+{
+	display:black;
+	width:100%;
+	float:left;
+	padding:10px;
+
+}
+form #btn
+{
+	 background:#00ffff;
+	 border:1px solid #00ffff;
+	 margin-left:30px;
+	  width:250px;
+	 height:30px;
+	 border-radius:5px;
+	 font-size:18px;
+	 color:blue;
+}
+form #btn:hover{
+	 background:#5eaeff;
+ }
+form #btn:active{
+	 background:yellow;
+ }

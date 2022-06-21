@@ -1,0 +1,40 @@
+#blog_img
+{
+	height:150px;
+	width:300px;
+	margin:10px;
+	float:left;
+}
+#para1
+{
+	font-size:18px;
+	
+}
+ #user_login tr td #comm
+ {
+	 width:350px;
+	 height:30px;
+	 border-radius:5px;
+	 font-size:18px;
+	 color:blue; 
+	 padding:8px;
+ }
+ #comm{
+	 background:#00ffff;
+	 border:1px solid #00ffff;
+ }
+ #comm:hover{
+	 background:#5eaeff;
+ }
+ #comm:active{
+	 background:yellow;
+ }
+#user_login textarea
+{
+	 width:250px;
+	 height:100px;
+	 border-radius:5px;
+	 font-size:18px;
+	 color:blue; 
+	 resize:none;
+}
